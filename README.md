@@ -2,7 +2,8 @@
 This project contains a web-page which is a landing page for a mock-up company. It was part of The Odin Project's curriculum, as a project to practice flexbox.
 
 ## Viewing:
-Visit the link in the Deployments section on the right side-bar. 
+Visit the following link: https://semproject-stupid.github.io/landing-page/
+(or you can access it from the Deployments section in the right side-bar). 
 
 ###### Attributions:
 Images licensed from the following sources: 
